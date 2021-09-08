@@ -18,6 +18,7 @@ python main.py
 ## 2. Start the backend api server:
 open terminal and run the following command:
 ```
+pip install Flask
 cd backend
 flask run
 ```
