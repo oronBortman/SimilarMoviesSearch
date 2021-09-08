@@ -1,0 +1,3 @@
+# HiredScore
+# HiredScoreHomeAssignment
+# HiredScoreHomeAssignment
