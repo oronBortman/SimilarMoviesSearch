@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa9b3599-29a4-4fad-b49b-bdc6d886a632" name="Default Changelist" comment="moving configuration to settings folder">
+      <change afterPath="$PROJECT_DIR$/utils/action_on_db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/create_db_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/.idea/flaskProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/global_variables/globals_variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/settings/configuration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask/utils/general_db_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-general/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings/configuration.py" beforeDir="false" afterPath="$PROJECT_DIR$/settings/configuration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/create_table_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/create_table_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/general_db_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/general_db_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/handling_db_tables_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/insert_to_db_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/import_json_to_db_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/import_json_to_db_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/similar_movies.py" beforeDir="false" afterPath="$PROJECT_DIR$/../flask/utils/similar_movies.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="8c6376ae-feca-4875-b309-88786dd8befb" />
+  <component name="ProjectId" id="1xivGvRknrRePAJqYBRGa1oeVdI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/json_files" />
+      <recent name="$PROJECT_DIR$/utils" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/settings" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="create_db_import_json" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa9b3599-29a4-4fad-b49b-bdc6d886a632" name="Default Changelist" comment="" />
+      <created>1630850632771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630850632771</updated>
+      <workItem from="1630850634110" duration="4622000" />
+      <workItem from="1630922049979" duration="2455000" />
+      <workItem from="1631009915528" duration="29000" />
+      <workItem from="1631088512974" duration="9522000" />
+    </task>
+    <task id="LOCAL-00001" summary="Adding similar movies method">
+      <created>1630856300310</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1630856300310</updated>
+    </task>
+    <task id="LOCAL-00002" summary="moving configuration to settings folder">
+      <created>1630856434677</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1630856434677</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding similar movies method" />
+    <MESSAGE value="moving configuration to settings folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="moving configuration to settings folder" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="219" y="118" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1630852291698">
+      <screen x="0" y="25" width="1680" height="924" />
+    </state>
+    <state x="219" y="118" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.924@0.25.1680.924" timestamp="1630852291698" />
+    <state x="745" y="210" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1631088732170">
+      <screen x="0" y="25" width="1680" height="924" />
+    </state>
+    <state x="745" y="210" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1680.924@0.25.1680.924" timestamp="1631088732170" />
+    <state width="1420" height="226" key="GridCell.Tab.0.bottom" timestamp="1631120467673">
+      <screen x="0" y="25" width="1680" height="924" />
+    </state>
+    <state width="1420" height="226" key="GridCell.Tab.0.bottom/0.25.1680.924@0.25.1680.924" timestamp="1631120467673" />
+    <state width="1420" height="226" key="GridCell.Tab.0.bottom/0.25.1680.927@0.25.1680.927" timestamp="1631095630795" />
+    <state width="1420" height="226" key="GridCell.Tab.0.center" timestamp="1631120467672">
+      <screen x="0" y="25" width="1680" height="924" />
+    </state>
+    <state width="1420" height="226" key="GridCell.Tab.0.center/0.25.1680.924@0.25.1680.924" timestamp="1631120467672" />
+    <state width="1420" height="226" key="GridCell.Tab.0.center/0.25.1680.927@0.25.1680.927" timestamp="1631095630794" />
+    <state width="1420" height="226" key="GridCell.Tab.0.left" timestamp="1631120467670">
+      <screen x="0" y="25" width="1680" height="924" />
+    </state>
+    <state width="1420" height="226" key="GridCell.Tab.0.left/0.25.1680.924@0.25.1680.924" timestamp="1631120467670" />
+    <state width="1420" height="226" key="GridCell.Tab.0.left/0.25.1680.927@0.25.1680.927" timestamp="1631095630794" />
+    <state width="1420" height="226" key="GridCell.Tab.0.right" timestamp="1631120467672">
+      <screen x="0" y="25" width="1680" height="924" />
+    </state>
+    <state width="1420" height="226" key="GridCell.Tab.0.right/0.25.1680.924@0.25.1680.924" timestamp="1631120467672" />
+    <state width="1420" height="226" key="GridCell.Tab.0.right/0.25.1680.927@0.25.1680.927" timestamp="1631095630795" />
+    <state x="694" y="183" key="Vcs.Push.Dialog.v2" timestamp="1630856443478">
+      <screen x="0" y="25" width="1680" height="924" />
+    </state>
+    <state x="694" y="183" key="Vcs.Push.Dialog.v2/0.25.1680.924@0.25.1680.924" timestamp="1630856443478" />
+    <state x="494" y="298" width="597" height="490" key="find.popup" timestamp="1631120544928">
+      <screen x="0" y="25" width="1680" height="924" />
+    </state>
+    <state x="494" y="298" width="597" height="490" key="find.popup/0.25.1680.924@0.25.1680.924" timestamp="1631120544928" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/create_db_import_json$main.coverage" NAME="main Coverage Results" MODIFIED="1631095630784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="db994e33-aa21-4c3c-9bc5-2f77c586f74a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../create_db_import_json/utils/action_on_db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../create_db_import_json/utils/create_db_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/flaskProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/global_variables/globals_variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings/configuration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/general_db_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-general/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../create_db_import_json/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../create_db_import_json/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../create_db_import_json/json_files/test.json" beforeDir="false" afterPath="$PROJECT_DIR$/../create_db_import_json/test.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../create_db_import_json/json_files/train.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../create_db_import_json/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../create_db_import_json/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../create_db_import_json/settings/configuration.py" beforeDir="false" afterPath="$PROJECT_DIR$/../create_db_import_json/settings/configuration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../create_db_import_json/utils/create_table_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../create_db_import_json/utils/create_table_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../create_db_import_json/utils/general_db_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../create_db_import_json/utils/general_db_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../create_db_import_json/utils/handling_db_tables_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../create_db_import_json/utils/insert_to_db_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../create_db_import_json/utils/import_json_to_db_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../create_db_import_json/utils/import_json_to_db_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../create_db_import_json/utils/similar_movies.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/similar_movies.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="8c6376ae-feca-4875-b309-88786dd8befb" />
+  <component name="ProjectId" id="1wAwwQefLWzm0CYIf5SxRFro7ke" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flask server.flaskProject">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="flaskProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="flaskProject" type="Python.FlaskServer">
+      <module name="flaskProject" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db994e33-aa21-4c3c-9bc5-2f77c586f74a" name="Default Changelist" comment="" />
+      <created>1627914938910</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627914938910</updated>
+      <workItem from="1627914957801" duration="11656000" />
+      <workItem from="1628018902365" duration="4000" />
+      <workItem from="1628751611911" duration="1105000" />
+      <workItem from="1628761131256" duration="230000" />
+      <workItem from="1628764282319" duration="584000" />
+      <workItem from="1630856713278" duration="116000" />
+      <workItem from="1630856950759" duration="837000" />
+      <workItem from="1630863326167" duration="1041000" />
+      <workItem from="1630912307058" duration="10750000" />
+      <workItem from="1631009916550" duration="5469000" />
+      <workItem from="1631030937971" duration="20459000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="571" y="234" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1631092832709">
+      <screen x="0" y="25" width="1680" height="927" />
+    </state>
+    <state x="571" y="234" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.927@0.25.1680.927" timestamp="1631092832709" />
+    <state x="706" y="263" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1631088644874">
+      <screen x="0" y="25" width="1680" height="924" />
+    </state>
+    <state x="706" y="263" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1680.924@0.25.1680.924" timestamp="1631088644874" />
+    <state x="706" y="264" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1680.927@0.25.1680.927" timestamp="1630922105287" />
+    <state width="1223" height="230" key="GridCell.Tab.0.bottom" timestamp="1631120186558">
+      <screen x="0" y="25" width="1680" height="924" />
+    </state>
+    <state width="1223" height="230" key="GridCell.Tab.0.bottom/0.25.1680.924@0.25.1680.924" timestamp="1631120186558" />
+    <state width="1223" height="230" key="GridCell.Tab.0.bottom/0.25.1680.927@0.25.1680.927" timestamp="1631114873099" />
+    <state width="1768" height="230" key="GridCell.Tab.0.bottom/0.25.1680.930@0.25.1680.930" timestamp="1631113512706" />
+    <state width="1756" height="230" key="GridCell.Tab.0.bottom/0.25.1680.934@0.25.1680.934" timestamp="1630927975134" />
+    <state width="1756" height="230" key="GridCell.Tab.0.bottom/0.25.1680.937@0.25.1680.937" timestamp="1630929075962" />
+    <state width="1381" height="230" key="GridCell.Tab.0.bottom/0.25.1920.954@0.25.1920.954" timestamp="1630880761310" />
+    <state width="1223" height="230" key="GridCell.Tab.0.center" timestamp="1631120186557">
+      <screen x="0" y="25" width="1680" height="924" />
+    </state>
+    <state width="1223" height="230" key="GridCell.Tab.0.center/0.25.1680.924@0.25.1680.924" timestamp="1631120186557" />
+    <state width="1223" height="230" key="GridCell.Tab.0.center/0.25.1680.927@0.25.1680.927" timestamp="1631114873098" />
+    <state width="1768" height="230" key="GridCell.Tab.0.center/0.25.1680.930@0.25.1680.930" timestamp="1631113512706" />
+    <state width="1756" height="230" key="GridCell.Tab.0.center/0.25.1680.934@0.25.1680.934" timestamp="1630927975133" />
+    <state width="1756" height="230" key="GridCell.Tab.0.center/0.25.1680.937@0.25.1680.937" timestamp="1630929075962" />
+    <state width="1381" height="230" key="GridCell.Tab.0.center/0.25.1920.954@0.25.1920.954" timestamp="1630880761309" />
+    <state width="1223" height="230" key="GridCell.Tab.0.left" timestamp="1631120186557">
+      <screen x="0" y="25" width="1680" height="924" />
+    </state>
+    <state width="1223" height="230" key="GridCell.Tab.0.left/0.25.1680.924@0.25.1680.924" timestamp="1631120186557" />
+    <state width="1223" height="230" key="GridCell.Tab.0.left/0.25.1680.927@0.25.1680.927" timestamp="1631114873098" />
+    <state width="1768" height="230" key="GridCell.Tab.0.left/0.25.1680.930@0.25.1680.930" timestamp="1631113512705" />
+    <state width="1756" height="230" key="GridCell.Tab.0.left/0.25.1680.934@0.25.1680.934" timestamp="1630927975133" />
+    <state width="1756" height="230" key="GridCell.Tab.0.left/0.25.1680.937@0.25.1680.937" timestamp="1630929075961" />
+    <state width="1381" height="230" key="GridCell.Tab.0.left/0.25.1920.954@0.25.1920.954" timestamp="1630880761309" />
+    <state width="1223" height="230" key="GridCell.Tab.0.right" timestamp="1631120186557">
+      <screen x="0" y="25" width="1680" height="924" />
+    </state>
+    <state width="1223" height="230" key="GridCell.Tab.0.right/0.25.1680.924@0.25.1680.924" timestamp="1631120186557" />
+    <state width="1223" height="230" key="GridCell.Tab.0.right/0.25.1680.927@0.25.1680.927" timestamp="1631114873098" />
+    <state width="1768" height="230" key="GridCell.Tab.0.right/0.25.1680.930@0.25.1680.930" timestamp="1631113512706" />
+    <state width="1756" height="230" key="GridCell.Tab.0.right/0.25.1680.934@0.25.1680.934" timestamp="1630927975134" />
+    <state width="1756" height="230" key="GridCell.Tab.0.right/0.25.1680.937@0.25.1680.937" timestamp="1630929075962" />
+    <state width="1381" height="230" key="GridCell.Tab.0.right/0.25.1920.954@0.25.1920.954" timestamp="1630880761310" />
+    <state x="700" y="119" width="597" height="735" key="find.popup" timestamp="1631120055204">
+      <screen x="0" y="25" width="1680" height="924" />
+    </state>
+    <state x="700" y="119" width="597" height="735" key="find.popup/0.25.1680.924@0.25.1680.924" timestamp="1631120055204" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/flaskProject$flaskProject.coverage" NAME="flaskProject Coverage Results" MODIFIED="1628006683604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/flaskProject$main.coverage" NAME="main Coverage Results" MODIFIED="1628764285206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/flask$main.coverage" NAME="main Coverage Results" MODIFIED="1630856957495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/flask$flaskProject.coverage" NAME="flaskProject Coverage Results" MODIFIED="1631114873091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

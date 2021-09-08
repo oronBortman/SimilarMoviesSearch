@@ -1,0 +1,34 @@
+.center-col {
+    margin-top: 20px;
+    margin-left: 20px;
+    position: relative;
+    height: 50vh;
+    width: 70vh;
+    display: flex;
+    flex-direction: row;
+    overflow-y: scroll;
+}
+
+
+
+.similar-movies{
+    margin-left: 50px;
+}
+
+li:hover{background: rgb(174, 173, 173);}
+
+.headline{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.list-movies-headline{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.search-bar {
+    margin-top: 20px;
+    margin-left: 100px;
+    position: relative;
+    vertical-align: top;
+}
