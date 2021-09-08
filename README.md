@@ -10,6 +10,7 @@ DB_PASSWD
 
 1.2 Open terminal and run the following command:
 ```
+pip install mysql-connector-python
 cd create_db_import_json
 python main.py
 ```
