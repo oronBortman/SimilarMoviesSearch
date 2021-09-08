@@ -3,7 +3,6 @@
 1.1 In create_db_import_json/settings/configuration.py 
 edit the following properties by your MySQL instace:
 ```
-DB_NAME
 HOSTNAME 
 DB_USER
 DB_PASSWD
