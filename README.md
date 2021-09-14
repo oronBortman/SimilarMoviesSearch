@@ -94,10 +94,12 @@ remark: The algorithm reads every line of the json file and not all the json fil
       
 ## 4. Backend - flask
 API methods:
+
       ● /movies?startsWith=value:
             returns all the movies that starts with the given value
       ● /similar_movies?id=value:
             returns the top three movies that are similar to the movie with the given id
+            
 There is a local cache (dictionary of python) that holds the similar movies that were fetched from the server.
 
 ## 5. Frontend - React
