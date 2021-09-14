@@ -81,6 +81,7 @@ The algorithm:
 3. Get the top three movies that their sum of weights is the biggest
 
 ## 3. Create db and import to json
+
 Usage of Template design pattern:
 The create db and import from json to db algorithms have the same skelethon of connecting to the db and then doing actions on the db, 
 committing them and closing the connection. Therefore, to avoid code duplication, I used a template class and I called it ActionsOnDB. This class has the function “operation_on_db” as an injection point to run actions on the db. The classes CreateDB and ImportJsonToDb inherit from the ActionsOnDB class and the “operation_on_db” is configured with the actions that each algorithm does in the db.
@@ -89,7 +90,9 @@ Algorithm for importing the json data to the db:
 remark: The algorithm reads every line of the json file and not all the json file as a whole json object, because the given json file has a root element in every line and as far as I know it’s not a valid json format and json should have one root element.
 
 1. For every line in the json file:
+
       a. create json object
+      
       b. insert data to the db tables based on the json object
       
 ## 4. Backend - flask
