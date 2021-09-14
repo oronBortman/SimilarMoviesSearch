@@ -78,7 +78,7 @@ The Algorithm:
 
       2.6 Add the result of every movie to its sum of weights
 
-3. Get the top three movies that their sum of weights is the biggest
+Finally, get the top three movies that their sum of weights is the biggest
 
 ## 3. Create db and import to json
 
