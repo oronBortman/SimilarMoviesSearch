@@ -20,21 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa9b3599-29a4-4fad-b49b-bdc6d886a632" name="Default Changelist" comment="moving configuration to settings folder">
-      <change afterPath="$PROJECT_DIR$/utils/action_on_db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/create_db_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flask/.idea/flaskProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flask/global_variables/globals_variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flask/settings/configuration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../flask/utils/general_db_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python-general/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings/configuration.py" beforeDir="false" afterPath="$PROJECT_DIR$/settings/configuration.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/create_table_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/create_table_functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/general_db_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/general_db_functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/handling_db_tables_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/insert_to_db_functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/import_json_to_db_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/import_json_to_db_functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/similar_movies.py" beforeDir="false" afterPath="$PROJECT_DIR$/../flask/utils/similar_movies.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +98,7 @@
       <workItem from="1630850634110" duration="4622000" />
       <workItem from="1630922049979" duration="2455000" />
       <workItem from="1631009915528" duration="29000" />
-      <workItem from="1631088512974" duration="9522000" />
+      <workItem from="1631088512974" duration="10579000" />
     </task>
     <task id="LOCAL-00001" summary="Adding similar movies method">
       <created>1630856300310</created>
@@ -160,26 +146,30 @@
       <screen x="0" y="25" width="1680" height="924" />
     </state>
     <state x="745" y="210" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1680.924@0.25.1680.924" timestamp="1631088732170" />
-    <state width="1420" height="226" key="GridCell.Tab.0.bottom" timestamp="1631120467673">
-      <screen x="0" y="25" width="1680" height="924" />
+    <state width="1420" height="226" key="GridCell.Tab.0.bottom" timestamp="1631126477460">
+      <screen x="0" y="25" width="1920" height="954" />
     </state>
     <state width="1420" height="226" key="GridCell.Tab.0.bottom/0.25.1680.924@0.25.1680.924" timestamp="1631120467673" />
     <state width="1420" height="226" key="GridCell.Tab.0.bottom/0.25.1680.927@0.25.1680.927" timestamp="1631095630795" />
-    <state width="1420" height="226" key="GridCell.Tab.0.center" timestamp="1631120467672">
-      <screen x="0" y="25" width="1680" height="924" />
+    <state width="1420" height="226" key="GridCell.Tab.0.bottom/0.25.1920.954@0.25.1920.954" timestamp="1631126477460" />
+    <state width="1420" height="226" key="GridCell.Tab.0.center" timestamp="1631126477459">
+      <screen x="0" y="25" width="1920" height="954" />
     </state>
     <state width="1420" height="226" key="GridCell.Tab.0.center/0.25.1680.924@0.25.1680.924" timestamp="1631120467672" />
     <state width="1420" height="226" key="GridCell.Tab.0.center/0.25.1680.927@0.25.1680.927" timestamp="1631095630794" />
-    <state width="1420" height="226" key="GridCell.Tab.0.left" timestamp="1631120467670">
-      <screen x="0" y="25" width="1680" height="924" />
+    <state width="1420" height="226" key="GridCell.Tab.0.center/0.25.1920.954@0.25.1920.954" timestamp="1631126477459" />
+    <state width="1420" height="226" key="GridCell.Tab.0.left" timestamp="1631126477458">
+      <screen x="0" y="25" width="1920" height="954" />
     </state>
     <state width="1420" height="226" key="GridCell.Tab.0.left/0.25.1680.924@0.25.1680.924" timestamp="1631120467670" />
     <state width="1420" height="226" key="GridCell.Tab.0.left/0.25.1680.927@0.25.1680.927" timestamp="1631095630794" />
-    <state width="1420" height="226" key="GridCell.Tab.0.right" timestamp="1631120467672">
-      <screen x="0" y="25" width="1680" height="924" />
+    <state width="1420" height="226" key="GridCell.Tab.0.left/0.25.1920.954@0.25.1920.954" timestamp="1631126477458" />
+    <state width="1420" height="226" key="GridCell.Tab.0.right" timestamp="1631126477460">
+      <screen x="0" y="25" width="1920" height="954" />
     </state>
     <state width="1420" height="226" key="GridCell.Tab.0.right/0.25.1680.924@0.25.1680.924" timestamp="1631120467672" />
     <state width="1420" height="226" key="GridCell.Tab.0.right/0.25.1680.927@0.25.1680.927" timestamp="1631095630795" />
+    <state width="1420" height="226" key="GridCell.Tab.0.right/0.25.1920.954@0.25.1920.954" timestamp="1631126477459" />
     <state x="694" y="183" key="Vcs.Push.Dialog.v2" timestamp="1630856443478">
       <screen x="0" y="25" width="1680" height="924" />
     </state>
