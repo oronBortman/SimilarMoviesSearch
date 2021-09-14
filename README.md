@@ -30,7 +30,7 @@ npm install
 npm run
 ```
 
-#Techincal Infomration
+# Techincal Infomration
 
 ## 1. DB design - MySQL
 
