@@ -62,7 +62,7 @@ release_date - 0.05, movie_box_office_revenue - 0.05, feature_length - 0.05
 
 I defined the weights of the categories by how I think similar movies are suppose to be defined.
 
-The algorithm:
+The Algorithm:
 
 1. Get the categories values of the selected movie: languages, countries and genres 2. For every category:
 
